@@ -47,13 +47,14 @@ class vpoc():
         '''
         print('''
     |=================================================|
-    | Title < Tool Name >      |
-    | ------------------------------------------      |
-    | some description about what the tool does and   |
-    | and who is supposed to used with disclaimers    |
+    |         Cisco SD-WAN CLI mode converter         |
+    | ------------------------------------------------|
+    | This script enables you to convert devices in   |
+    | vManage Mode to CLI Mode                        |
     |                                                 |
-    | This is Cisco Internal too and not for external |
-    | distribution                                    |
+    | This is tool is licensed under Cisco Sample Code|
+    | License. Please view the license file (attached)|
+    | before using this tool                          |
     | For any questions contact husseino@cisco.com    |
     |=================================================|
 ''')
