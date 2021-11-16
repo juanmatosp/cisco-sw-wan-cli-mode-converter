@@ -1,5 +1,5 @@
 
-# Cisco sd-wan-cli-mode-converter
+# Cisco SD-WAN cli-mode-converter
 
 This script is used to convert devices from vManage mode to CLI Mode.
 
