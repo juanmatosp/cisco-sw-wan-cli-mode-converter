@@ -338,6 +338,7 @@ def main():
                 filename = f'{device["system-ip"]}-{getTimeStamp()}.txt'
                 session.getCliConfig(device, filename)
                 bar()
+                time.sleep(5)
         print('')
 
     def task5():
@@ -355,6 +356,7 @@ def main():
                 if device['configOperationMode'] == 'vmanage':
                     session.mode2Cli(device)
                 bar()
+                time.sleep(5)
         print('')
 
     def promptOptions():
