@@ -51,4 +51,4 @@ https://www.youtube.com/watch?v=4-dmcdPEwFc
 CISCO SAMPLE CODE LICENSE
 
 # Caution
-Steps 4 and 6 have sleep timer of 5 second between each iteration. Increase the speel timer accordingly if you have very large number of devices as you can overwhelm vManage.
+Steps 4 and 6 have sleep timer of 5 second between each iteration. Increase the sleep timer accordingly if you have very large number of devices as you can overwhelm vManage.
