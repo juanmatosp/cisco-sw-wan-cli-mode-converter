@@ -45,3 +45,6 @@ python cli_mode_converter.py
 
 # License
 CISCO SAMPLE CODE LICENSE
+
+# Caution
+Steps 4 and 6 have sleep timer of 5 second between each iteration. Increase the speel timer accordingly if you have very large number of devices as you can overwhelm vManage.
