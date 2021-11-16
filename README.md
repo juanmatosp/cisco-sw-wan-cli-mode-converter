@@ -1,3 +1,4 @@
+[![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/HusseinOmar/cisco-sw-wan-cli-mode-converter)
 # Cisco sd-wan-cli-mode-converter
 
 This script is used to convert devices from vManage mode to CLI Mode.
