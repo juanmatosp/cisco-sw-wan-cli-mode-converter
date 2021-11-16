@@ -42,6 +42,7 @@ pip3 install -r requirements.txt
 ```
 python cli_mode_converter.py 
 ```
+![cli-converter](https://user-images.githubusercontent.com/25336119/141952623-2af9b6ab-33df-42be-aabd-c431b442db4d.jpg)
 
 # License
 CISCO SAMPLE CODE LICENSE
