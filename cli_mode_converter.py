@@ -172,30 +172,8 @@ class vpoc():
             "POST", url, headers=headers, data=payload, verify=False)
         return response
 
-    def deleteRequest(self, mountURL):
-        payload = {}
-        headers = {
-            'X-XSRF-TOKEN': self.token,
-            'Cookie': self.cookie
-        }
-        url = self.base_url + mountURL
-        response = requests.request(
-            "DELETE", url, headers=headers, data=payload, verify=False)
-        return response
-
 #################################################################
 ################## Tools Functions ##############################
-    def getKey(self, dict):
-        return list(dict.keys())[0]
-
-    def getValue(self, dict):
-        return list(dict.values())[0]
-
-    def readCsvFile(self, filename):
-        return csv.DictReader(open(filename))
-
-    def args(self):
-        return sys.argv
 
     def dict2csv(self, dict, filename, fieldnames):
         with open(filename, 'w') as csvFile:
