@@ -45,7 +45,7 @@ python cli_mode_converter.py
 ```
 ![cli-converter](https://user-images.githubusercontent.com/25336119/141952623-2af9b6ab-33df-42be-aabd-c431b442db4d.jpg)
 
-https://www.youtube.com/watch?v=4-dmcdPEwFc
+https://youtu.be/mCMArkzxz_g
 
 # License
 CISCO SAMPLE CODE LICENSE
